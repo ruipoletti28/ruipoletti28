@@ -1,4 +1,4 @@
-## Hii! there 🤞
+## Hii! 🤞
 
 - 🔭 Atualmente estou trabalhando em Campinas
 - 🌱 Atualmente estou aprendendo Java and Salesforce (Apex)
