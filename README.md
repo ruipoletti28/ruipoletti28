@@ -1,6 +1,6 @@
-### - 🔭 I’m currently working on UnimedCampinas - SP
-    - 🌱 I’m currently learning Cypress, JS and Python
-Será que agora foi?
+### Será que agora foi?
+    - 🔭 I’m currently working on UnimedCampinas - SP
+
 
 <!--
 **ruipoletti28/ruipoletti28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
